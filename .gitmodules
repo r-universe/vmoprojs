@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GeoModels"]
 	path = GeoModels
 	url = https://github.com/vmoprojs/geomodels
-	shallow = true
-	registered = true
