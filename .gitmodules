@@ -5,6 +5,7 @@
 [submodule "GeoModels"]
 	path = GeoModels
 	url = https://github.com/vmoprojs/geomodels
+	subdir = GeoModels
 [submodule "MTest"]
 	path = MTest
 	url = https://github.com/vmoprojs/mtest
