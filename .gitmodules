@@ -8,3 +8,6 @@
 [submodule "MTest"]
 	path = MTest
 	url = https://github.com/vmoprojs/mtest
+[submodule "clusEvol"]
+	path = clusEvol
+	url = https://github.com/vmoprojs/clusevol
